@@ -1,1 +1,1 @@
-web: caravel runserver -p $PORT
+web: superset runserver -p $PORT

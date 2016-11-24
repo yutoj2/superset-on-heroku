@@ -1,2 +1,2 @@
-caravel==0.12.0
+superset==0.13.2
 mysqlclient==1.3.7
