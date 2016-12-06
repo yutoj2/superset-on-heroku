@@ -1,2 +1,2 @@
-superset==0.13.2
+superset==0.14.1
 mysqlclient==1.3.7
