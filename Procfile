@@ -1,1 +1,1 @@
-web: superset runserver -p $PORT
+web: superset runserver -d
