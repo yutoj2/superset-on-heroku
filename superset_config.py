@@ -23,3 +23,6 @@ SQLALCHEMY_DATABASE_URI = os.environ['DATABASE_URL']
 
 # Flask-WTF flag for CSRF
 WTF_CSRF_ENABLED = CSRF_ENABLED = True
+
+# use inserted X-Forwarded-For/X-Forwarded-Proto headers
+ENABLE_PROXY_FIX = True
